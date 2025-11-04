@@ -1,2 +1,4 @@
-0.0.0.0 7caa2.v.fwmrm.net
-0.0.0.0 rac.ruutu.fi
+7caa2.v.fwmrm.net
+rac.ruutu.fi
+sanoma.endpoint.finnpanel.fi
+edge.adobedc.net
