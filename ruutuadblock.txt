@@ -1,4 +1,3 @@
-adserver.adtech.de
-sdk.fra-02.braze.eu
+
 
 
