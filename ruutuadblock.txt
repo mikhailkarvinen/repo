@@ -2,4 +2,5 @@
 rac.ruutu.fi
 sanoma.endpoint.finnpanel.fi
 edge.adobedc.net
-adserver.adtech.de
+
+
