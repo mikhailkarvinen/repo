@@ -6,3 +6,9 @@ adserver.adtech.de
 adtech.de
 sdk.fra-02.braze.eu
 cdn.ss.anno.channel4.com
+
+prism-ads-cdn.a2d.tv
+sdk.fra-02.braze.eu
+nordic-reno.mtv.a2d.tv
+mtv.video-tracking.a2d.tv
+endpoint.finnpanel.fi
