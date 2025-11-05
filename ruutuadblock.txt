@@ -12,3 +12,8 @@ sdk.fra-02.braze.eu
 nordic-reno.mtv.a2d.tv
 mtv.video-tracking.a2d.tv
 endpoint.finnpanel.fi
+Ima.npaw.com
+lma.npaw.com
+805a.v.fwmrm.net
+
+
