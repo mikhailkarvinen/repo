@@ -1,19 +1,8 @@
-7caa2.v.fwmrm.net
-rac.ruutu.fi
-sanoma.endpoint.finnpanel.fi
-edge.adobedc.net
-adserver.adtech.de
-adtech.de
-sdk.fra-02.braze.eu
-cdn.ss.anno.channel4.com
-
-prism-ads-cdn.a2d.tv
-sdk.fra-02.braze.eu
-nordic-reno.mtv.a2d.tv
-mtv.video-tracking.a2d.tv
-endpoint.finnpanel.fi
-Ima.npaw.com
-lma.npaw.com
-805a.v.fwmrm.net
-
+ads.viaplay.fi
+ads.vionity.com
+pubads.g.doubleclick.net
+imasdk.googleapis.com
+freewheel.tv
+tracking.viaplay.fi
+tracking.vionity.com
 
