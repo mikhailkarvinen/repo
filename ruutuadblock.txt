@@ -2,7 +2,4 @@ ads.viaplay.fi
 ads.vionity.com
 pubads.g.doubleclick.net
 imasdk.googleapis.com
-freewheel.tv
-tracking.viaplay.fi
-tracking.vionity.com
 
