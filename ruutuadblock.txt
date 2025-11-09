@@ -5,3 +5,6 @@ freewheel-jitt.sanoma.fi
 nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi
 sst.ruutu.fi
 rac.ruutu.fi
+
+device-api.nm-ovp.nelonenmedia.fi
+
