@@ -1,2 +1,7 @@
 firebaseinstallations.googleapis.com
 7caa2.v.fwmrm.net
+rac.ruutu.fi
+freewheel-jitt.sanoma.fi
+nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi
+sst.ruutu.fi
+rac.ruutu.fi
