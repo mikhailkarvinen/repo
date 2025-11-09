@@ -1,6 +1,2 @@
-sanoma.endpoint.finnpanel.fi
-edge.adobedc.net
-adserver.adtech.de
-adtech.de
-sdk.fra-02.braze.eu
-cdn.ss.anno.channel4.com
+firebaseinstallations.googleapis.com
+7caa2.v.fwmrm.net
