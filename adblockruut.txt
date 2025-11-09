@@ -1,2 +1,16 @@
-0.0.0.0 7caa2.v.fwmrm.net
-0.0.0.0 rac.ruutu.fi
+# Viaplay / MTV.fi DNS Blocklist (2025)
+# Generated for Pi-hole — blocks video ads, trackers, anti-adblock
+ads.viaplay.fi
+ads.vionity.com
+cmaf-ads.viaplay.fi
+hls-ads.viaplay.fi
+tracking.viaplay.fi
+tracking.vionity.com
+freewheel.tv
+freewheel-nelonen.sanoma.fi
+imasdk.googleapis.com
+pubads.g.doubleclick.net
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
